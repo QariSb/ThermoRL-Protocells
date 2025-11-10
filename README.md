@@ -65,7 +65,7 @@ results/
 
 ---
 
-## 📂 Recommended Repository Structure
+## 📂 Repository Structure
 
 ```
 ThermoRL-Protocells/
